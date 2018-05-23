@@ -7,3 +7,4 @@ pip install -U pip
 pip install numpy
 pip install scipy
 pip install scikit-learn
+pip install pandas
